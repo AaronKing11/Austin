@@ -1,5 +1,4 @@
 # Austin
-Here’s the updated summary with the requested order:
 
 1. **airbnb_listings_austin-1.csv**: This dataset focuses on Airbnb listings in Austin. It provides a deeper look at Airbnb’s market performance within this specific city. It includes similar fields as the other datasets, but with a localized focus. This dataset is particularly useful for market-specific analysis, helping businesses understand consumer behavior, demand patterns, and other local trends that could inform strategic decisions in Austin.
 
