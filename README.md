@@ -16,7 +16,7 @@ This project analyzes Airbnb listings and booking data specifically for the Aust
 - The _austin_linear_regression.ipynb_ notebook applies linear regression to identify key factors influencing booking rates, providing businesses with insights into how variables like location, number of reviews, and price affect booking behavior.
 
 **Predictive Decision Tree Model**
-- A decision tree model (_booked_decision_tree_final.pdf_)was created to predict the likelihood of an Airbnb listing being booked, based on factors such as price, host listings count, and cancellation policy.
+- A decision tree model (_booked_decision_tree_final.pdf_) was created to predict the likelihood of an Airbnb listing being booked, based on factors such as price, host listings count, and cancellation policy.
 - The decision tree provides clear, actionable insights for optimizing listing strategies and increasing bookings.
 
 **Business Impact**
